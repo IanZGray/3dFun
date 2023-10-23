@@ -24,7 +24,6 @@
     border-color: black;
     cursor: pointer;
   }
-  
   .intro {
     position: absolute;
     z-index: 10;
@@ -50,4 +49,3 @@
     display: flex;
     justify-content: center;
   }
-  
